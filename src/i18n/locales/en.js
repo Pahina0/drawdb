@@ -279,7 +279,6 @@ const en = {
     insert_sql: "Insert SQL",
     upload_file: "Upload file",
     show_comments: "Show comments",
-    clear_fields: "Clear fields",
   },
 };
 
